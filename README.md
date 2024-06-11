@@ -22,3 +22,9 @@ Here is an example you can run using our hardhat provided accounts:
   5. `await bank.getBalance("0x70997970C51812dc3A010C7d01b50e0d17dc79C8")`
   6. `await bank.withdraw("0x70997970C51812dc3A010C7d01b50e0d17dc79C8", 1)`
   7. `await bank.getBalance("0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")`
+
+
+
+Output stepwise when you will run an commands in all three terminals :->
+<img width="1440" alt="Screenshot 2024-06-11 at 8 13 12 PM" src="https://github.com/Navi1313/SolidityEvents/assets/121182901/f75ce729-3935-4fab-8ee0-2cd49f31c8b4">
+
